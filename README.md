@@ -5,11 +5,15 @@ Link to shadertoy repo: https://www.shadertoy.com/view/W32BDV
 I made 3 total parameters:
 SURPRISE, SADNESS and HEART.
 
-The animation in shadertoy will by default iterate over all 8 combinations with each setting at its min/max.
+![A](face1.png) ![B](face3.png) ![C](face4.png) ![D](face5.png)
+
+The animation in shadertoy will by default iterate over 6 combinations combinations each with some setting combination at their min/max.
 
 Me and classmate Aidan then made a second variant of this shader together, where the heart gets torn apart </3.
 
 Link to Broken Heart version of this Lab: https://www.shadertoy.com/view/WX2BDV
+
+![E](face2.png)
 
 # Assignment Description
 
