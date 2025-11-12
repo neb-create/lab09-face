@@ -1,4 +1,17 @@
-# lab06-proceduralFace
+# Procedural Face Lab Submission - Nico Kong
+
+Link to shadertoy repo: https://www.shadertoy.com/view/W32BDV
+
+I made 3 total parameters:
+SURPRISE, SADNESS and HEART.
+
+The animation in shadertoy will by default iterate over all 8 combinations with each setting at its min/max.
+
+Me and classmate Aidan then made a second variant of this shader together, where the heart gets torn apart </3.
+
+Link to Broken Heart version of this Lab: https://www.shadertoy.com/view/WX2BDV
+
+# Assignment Description
 
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
