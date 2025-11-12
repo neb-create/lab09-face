@@ -1,19 +1,23 @@
 # Procedural Face Lab Submission - Nico Kong
 
-Link to shadertoy repo: https://www.shadertoy.com/view/W32BDV
-
 I made 3 total parameters:
 SURPRISE, SADNESS and HEART.
 
-![A](face1.png) ![B](face3.png) ![C](face4.png) ![D](face5.png)
-
 The animation in shadertoy will by default iterate over 6 combinations combinations each with some setting combination at their min/max.
 
+Link to shadertoy repo: https://www.shadertoy.com/view/W32BDV
+
+<p>
+  <img src="face1.png" alt="A" width="150"/>
+  <img src="face3.png" alt="B" width="150"/>
+  <img src="face4.png" alt="C" width="150"/>
+  <img src="face5.png" alt="D" width="150"/>
+</p>
 Me and classmate Aidan then made a second variant of this shader together, where the heart gets torn apart </3.
 
 Link to Broken Heart version of this Lab: https://www.shadertoy.com/view/WX2BDV
 
-![E](face2.png)
+<img src="face2.png" alt="E" width="150"/>
 
 # Assignment Description
 
