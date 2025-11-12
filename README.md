@@ -15,7 +15,7 @@ Link to shadertoy repo: https://www.shadertoy.com/view/W32BDV
   <img src="face6.png" alt="F" width="250"/>
   <img src="face7.png" alt="G" width="250"/>
 </p>
-Me and classmate Aidan then made a second variant of this shader together, where the heart gets torn apart over time '</3'.
+Me and classmate Aidan then made a second variant of this shader together, where the heart gets torn apart over time `</3`.
 
 
 Link to Broken Heart version of this Lab: https://www.shadertoy.com/view/WX2BDV
