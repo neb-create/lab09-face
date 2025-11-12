@@ -12,6 +12,8 @@ Link to shadertoy repo: https://www.shadertoy.com/view/W32BDV
   <img src="face3.png" alt="B" width="250"/>
   <img src="face4.png" alt="C" width="250"/>
   <img src="face5.png" alt="D" width="250"/>
+  <img src="face6.png" alt="F" width="250"/>
+  <img src="face7.png" alt="G" width="250"/>
 </p>
 Me and classmate Aidan then made a second variant of this shader together, where the heart gets torn apart </3.
 
